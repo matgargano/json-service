@@ -1,0 +1,43 @@
+{
+	"1b": {
+		"lat": 40.572681,
+		"lng": -74.109525,
+		"name": "FIRST HOUSE",
+		"rating": 4,
+		"city": "Staten Island",
+		"state": "NY"
+	},
+	"2a": {
+		"lat": 40.574097,
+		"lng": -74.113789,
+		"name": "name 2",
+		"rating": 5,
+		"city": "Staten Island",
+		"state": "NY"
+	},
+	"3a": {
+		"lat": 40.573097,
+		"lng": -74.113789,
+		"name": "name 3",
+		"rating": 3,
+		"city": "Staten Island",
+		"state": "NY"
+	},
+	"4a": {
+		"lat": 40.573097,
+		"lng": -74.123789,
+		"name": "another!!",
+		"rating": 1,
+		"city": "Staten Island",
+		"state": "NY"
+	},
+	"54" : {
+	    "lat":12.238333,
+	    "lng": -1.561593,
+	    "name": "burkina faso",
+		"rating": 5,
+		"city": "FAR",
+		"state": "AWAY"
+	}
+
+}

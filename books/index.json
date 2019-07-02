@@ -1,0 +1,27 @@
+[
+   {
+      "id":1,
+      "title":"Fundamentals of Wavelets"
+   },
+   {
+      "id":2,
+      "title":"Data Smart",
+      "author":"Foreman, John"
+   },
+   {
+      "id":3,
+      "title":"God Created the Integers"
+   },
+   {
+      "id":4,
+      "title":"Superfreakonomics"
+   },
+   {
+      "id":5,
+      "title":"Orientalism"
+   },
+   {
+       "id": 6,
+       "title": "Whatever"
+   }
+]
